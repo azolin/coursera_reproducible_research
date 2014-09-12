@@ -1,7 +1,7 @@
-Coursera Reproducible Research project 1
+Reproducible Research Project1
 ========================================
 
-# Coursera course: Reproducible Research repo
+## Coursera course: Reproducible Research
 
 ## Notes: 
 - project1.Rmd is R markdown file
